@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:helloworld/users_page.dart';
+import 'package:helloworld/getx/users_page.dart';
 import 'package:get/get.dart';
 
 void main() {
