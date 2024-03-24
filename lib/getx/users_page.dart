@@ -1,8 +1,8 @@
 // users_page.dart
 import 'package:flutter/material.dart';
-import 'package:helloworld/user_controller.dart';
-import 'package:helloworld/user_detail_page.dart';
-import 'package:helloworld/user_model.dart';
+import 'package:helloworld/getx/user_controller.dart';
+import 'package:helloworld/getx/user_detail_page.dart';
+import 'package:helloworld/getx/user_model.dart';
 import 'package:get/get.dart';
 
 class UsersPage extends StatelessWidget {
