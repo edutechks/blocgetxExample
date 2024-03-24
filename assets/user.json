@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kishan Singh",
+    "email": "kishan@example.com",
+    "image": "assets/images/user1.png",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "name": "K Singh",
+    "email": "ksingh@example.com",
+    "image": "assets/images/user2.png",
+    "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
