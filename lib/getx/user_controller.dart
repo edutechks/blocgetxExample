@@ -1,5 +1,5 @@
 // user_controller.dart
-import 'package:helloworld/user_model.dart';
+import 'package:helloworld/getx/user_model.dart';
 import 'package:get/get.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
